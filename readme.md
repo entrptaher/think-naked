@@ -3,8 +3,11 @@
 Sometimes the download takes just too much time.
 
 # Running
-```
+
+```sh
 npx @entrptaher/think --deep --naked
+# or
+yarn think --deep --naked
 ```
 
 # Idea
