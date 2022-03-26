@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "ora": "^4.0.4",
     "waait": "^1.0.5"
   },
